@@ -5,7 +5,7 @@
 <ul>
   <li><strong>Programming/Scripting Languages worked with</strong>: Python, C++, Java, Go lang, JavaScript.</li>
   <li><strong>Frontend Development</strong>: React, Next.js, Vue, Django.</li>
-  <li><strong>Backend Development</strong>: Node.js, GoLang.</li>
+  <li><strong>Backend Development</strong>: Node.js, GoLang, Laravel.</li>
   <li><strong>DevOps</strong>: AWS, Docker, CI/CD pipelines, Kubernetes(currently learning).</li>
 </ul>
 
@@ -13,7 +13,7 @@
 <ul>
   <li>Building Projects on Nextjs 14 to understand it more better.</li>
   <li>Currently building a SAAS translation texting app that helps in quick communication, also made an <a href="https://rafid001-amazon.netlify.app">Amazon clone</a> using Nextjs.</li>
-  <li>Also learning Laravel.</li>
+  <li>Also learning Laravel by making a blog application that has a CRUD functionality.</li>
   <li>Trying to practice more and more DSA everyday.</li>
 </ul>
 
