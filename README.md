@@ -14,7 +14,6 @@
   <li>Learning <strong>Go</strong> by building a real-time video conferencing app with <strong>Pion WebRTC</strong>, focusing on concepts like <strong>concurrency</strong> and <strong>parallelism</strong> for handling multiple streams and connections.</li>
   <li>Building full-stack AI applications using <strong>Next.js</strong>, integrating with <strong>Gemini</strong> and <strong>Claude</strong> API's.</li>
   <li>Exploring microservice architectures and containerization with <strong>Docker</strong> to deploy production-ready apps.</li>
-  <li>Practicing <strong>DSA</strong> every day to improve problem-solving skills for interviews and system design challenges.</li>
 </ul>
 
 
