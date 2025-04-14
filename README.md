@@ -3,9 +3,9 @@
 
 <h1>🛠️ Technologies & Tools</h1>
 <ul>
-  <li><strong>Programming/Scripting Languages worked with</strong>: Python, C++, Java, Go lang, JavaScript.</li>
+  <li><strong>Programming/Scripting Languages worked with</strong>: Python, C++, Java, Go, JavaScript.</li>
   <li><strong>Frontend Development</strong>: React, Next.js, Vue, Django.</li>
-  <li><strong>Backend Development</strong>: Node.js, GoLang, Laravel.</li>
+  <li><strong>Backend Development</strong>: Node.js, Golang, Laravel.</li>
   <li><strong>DevOps</strong>: AWS, Docker, CI/CD pipelines, Kubernetes(currently learning).</li>
 </ul>
 
