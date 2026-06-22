@@ -4,9 +4,9 @@ Backend Engineer · Bengaluru · Building things that shouldn't exist yet
 
 ---
 
-Backend-leaning engineer at Visa, working on agentic systems. Spent the last year obsessing over how AI agents fail in production — and building around that.
+Software engineer at Visa, working on agentic systems. Spent the last year obsessing over how AI agents fail in production, and building around that.
 
-I write about the unglamorous parts of building a career in tech on Instagram — 35k+ views, mostly from people who needed to see it.
+I write about the unglamorous parts of building a career in tech on Instagram :- 35k+ views, mostly from people who needed to see it.
 
 ---
 
